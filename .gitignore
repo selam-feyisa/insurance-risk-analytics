@@ -1,5 +1,10 @@
 __pycache__/
+*.pyc
 .env/
 .venv/
 .ipynb_checkpoints/
 data/*.csv
+.dvc/cache/
+.dvc/tmp/
+.pytest_cache/
+*.egg-info/
